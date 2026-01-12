@@ -50,6 +50,7 @@ Use backticks for inline code:
 ---
 
 ### JavaScript Code Block
+
 ```javascript
 function greet(name) {
   console.log(`Hello, ${name}!`);
